@@ -237,7 +237,11 @@ I care about ownership and clean code more than clever code. I like systems I ca
 </p>
 
 <p align="center">
-  <img src="https://github.com/DipanshuRai/DipanshuRai/raw/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DipanshuRai/DipanshuRai/raw/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/DipanshuRai/DipanshuRai/raw/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contributions snake animation" src="https://github.com/DipanshuRai/DipanshuRai/raw/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
 
 ---
