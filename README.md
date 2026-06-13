@@ -39,7 +39,7 @@ I build end-to-end web products &mdash; backend systems, real-time media, and ti
 
 I care about ownership and clean code more than clever code. I like systems I can debug at 2 AM, projects that are honest about their trade-offs, and teams that disagree well. Most of my best ideas come from rubber-ducking with smarter people, and I learn fastest when I'm slightly out of my depth.
 
-**Currently open to** full-time SDE-1 / Software Engineer roles starting August 2026 &mdash; backend, full-stack, or real-time systems.
+**Currently open to** full-time SDE-1 / Software Engineer roles &mdash; backend, full-stack, or real-time systems.
 
 ---
 
@@ -47,10 +47,10 @@ I care about ownership and clean code more than clever code. I like systems I ca
 
 | | |
 |---|---|
-| &#127942; **Flipkart GRiD 7.0** | National 2nd Runner-Up (out of 5+ lakh participants) |
-| &#127942; **ICPC Asia Regionalist** | Amritapuri 2023 |
-| &#127942; **HirePro National Code Hunt** | 5th out of 73K+ contestants |
-| &#127942; **Algo University National Coding Contest** | Winner |
+| &#127942; **Flipkart GRiD 7.0** | National 2nd Runner-Up (out of 1.6+ lakh participants) |
+| &#127942; **ICPC AsiaWest Regionalist** | Amritapuri 2025 |
+| &#127942; **HirePro National Code Hunt** | 4th out of 20K+ contestants |
+| &#127942; **Algo University Coding Contest** | 3rd Rank |
 
 ---
 
@@ -63,8 +63,6 @@ I care about ownership and clean code more than clever code. I like systems I ca
       <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
     </td>
   </tr>
@@ -74,7 +72,6 @@ I care about ownership and clean code more than clever code. I like systems I ca
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
       <img src="https://img.shields.io/badge/Monaco-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Monaco Editor"/>
-      <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI"/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
     </td>
